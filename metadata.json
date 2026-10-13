@@ -1,0 +1,6 @@
+{
+  "name": "Электрики со стажем",
+  "description": "Профессиональный электромонтаж, сборка щитов, устранение аварий и замена проводки в Москве и МО. Работаем по ПУЭ и ГОСТ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
